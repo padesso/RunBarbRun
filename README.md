@@ -12,7 +12,7 @@ Controls:
 
 WASD or arrows controls the player
 
-Space bar regnerates the maze
+Space bar regenerates the maze
 
 
 
